@@ -76,6 +76,13 @@ h1 {
   right: 2rem;
 }
 
+.trademark{
+  font-size: 1.4rem;
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+}
+
 .again {
   position: absolute;
   top: 2rem;
